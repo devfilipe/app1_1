@@ -1,2 +1,9 @@
-# app1_1
-Dummy app for training.
+app1_1
+=====
+
+An OTP application
+
+Build
+-----
+
+    $ rebar3 compile
